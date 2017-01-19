@@ -18,6 +18,10 @@ in terminal to install the necessary dependencies. Here is a link to [pip](https
 
 Type `python demo.py` into terminal and you'll see the scatter plot and line of best fit appear.
 
+## Results from the Challenge
+Type `python challenge.py` into terminal and you'll see the scatter plot and line of best fit appear.
+
+
 ##Challenge
 
 The challenge for this video is to use scikit-learn to create a line of best fit for the included 'challenge_dataset'. Then, make a prediction for an existing data point and see how close it matches up to the actual value. Print out the error you get. You can use scikit-learn's [documentation](http://scikit-learn.org/stable/documentation.html) for more help. These weekly challenges are not related to the Udacity nanodegree projects, those are additional.
