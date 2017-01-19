@@ -18,9 +18,14 @@ in terminal to install the necessary dependencies. Here is a link to [pip](https
 
 Type `python demo.py` into terminal and you'll see the scatter plot and line of best fit appear.
 
-## Results from the Challenge
+##Results from the Challenge
 Type `python challenge.py` into terminal and you'll see the scatter plot and line of best fit appear.
 
+##Results
+
+See below the resulting plot:
+
+![alt tag](https://raw.githubusercontent.com/cleytonmessias/linear_regression_demo/master/plot.png)
 
 ##Challenge
 
